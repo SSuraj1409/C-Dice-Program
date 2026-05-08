@@ -13,7 +13,7 @@ A customizable C program that simulates dice rolls and calculates the percentage
 
 ## 📄 Description
 
-This C program simulates rolling a die based on user-defined inputs — the number of faces and the number of throws. It demonstrates the use of `rand()` and `srand()` functions from the standard library to produce random outcomes, and utilizes time-based seeding to ensure randomness across runs.
+This C program simulates rolling a die based on user-defined inputs the number of faces and the number of throws. It demonstrates the use of `rand()` and `srand()` functions from the standard library to produce random outcomes, and utilizes time-based seeding to ensure randomness across runs.
 
 ### 🔍 How It Works:
 
